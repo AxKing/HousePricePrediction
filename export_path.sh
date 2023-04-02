@@ -1,3 +1,3 @@
 #!/bin/bash
-PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/shq_pypi/
-PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/shq_workflow/
+PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/HousePricePrediction/shq_pypi/
+PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/HousePricePrediction/shq_workflow/

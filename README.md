@@ -1,2 +1,2 @@
-# CaliforniaHouseingPricesCapstone2
+# HousePricePrediction
 The second capstone project where I look at a data set of housing prices in California, and predict future home values. 

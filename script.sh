@@ -1,2 +1,2 @@
-export PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/shq_pypi/
-export PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/shq_workflow/
+export PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/HousePricePrediction/shq_pypi/
+export PYTHONPATH=$PYTHONPATH:/Users/amedina/Documents/GitHub/HousePricePrediction/shq_workflow/
