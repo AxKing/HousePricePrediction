@@ -1,0 +1,10 @@
+﻿The final model is a linear regression model. I used RMSE to pick the best model from the 4 I created. From using the GridSearch method to optimize the model, the final model will fit the intercept and has an RMSE:  70056.18127996859.
+To use the model you’ll need to input an array of values. The array will have the following:
+[housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value.median,1,0,0,0]
+The last 4 values are to indicate the ocean proximity.
+Inland 1,0,0,0
+Island 0,1,0,0
+Near_Bay 0,0,1,0
+Near_Ocean 0,0,0,1
+Ocean_Front 0,0,0,0
+All except the last 4 values will need to be normalized like the example in the Model folder.
